@@ -66,10 +66,10 @@ Tableau was utilized to visualize the data and present insights through:
 ## How to Run the Analysis
 
 1. **Python**:
-   - Clone this repository and install the necessary Python dependencies from the `requirements.txt` file.
-   - Run the Python script `eda-project-data-cleaning.py` to reproduce the hypothesis tests and statistical analysis.
+   - Clone this repository 
+   - Run the Python script `eda-project-data-cleaning.ipynb` to reproduce the hypothesis tests and statistical analysis.
 
 2. **Tableau**:
-   - Open the Tableau workbook `eda-project-data-cleaning.twbx` & `AB_Test_KPIs.twbx.twbx` to explore the visualizations and dashboards created for this analysis.
+   - Open the Tableau workbook `eda_project_demographics.twbx` & `AB_Test_KPIs.twbx` to explore the visualizations and dashboards created for this analysis.
 
 ---
