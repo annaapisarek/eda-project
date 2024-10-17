@@ -73,3 +73,14 @@ Tableau was utilized to visualize the data and present insights through:
    - Open the Tableau workbook `eda_project_demographics.twbx` & `AB_Test_KPIs.twbx` to explore the visualizations and dashboards created for this analysis.
 
 ---
+
+## Project Presentation
+
+https://docs.google.com/presentation/d/1WApxpVFNG5UQUr6bM9Y3768sbu1lR7rHhj2_c1-mLDE/edit?usp=sharing
+
+
+---
+
+## Project Kanban Board
+
+https://app.asana.com/0/1208500623857310/1208500909852358
